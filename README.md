@@ -51,11 +51,6 @@ I work at the intersection of **AI, data, and business transformation**, buildin
 
 ---
 
-## 🤝 Let’s Connect
-
-* 💼 LinkedIn: https://www.linkedin.com/in/erikarich/
-
----
 
 ## ⚡ What Drives Me
 
