@@ -24,7 +24,8 @@ I work at the intersection of **AI, data, and business transformation**, buildin
 * Multi-Agent AI Systems
 * End-to-End Data Pipelines
 * AI for Enterprise Applications
-* Performance & Transformation (PaT Lab)
+
+* 
  ## 🏅 Certifications
   
 *Snowflake SnowPro Certified**  
