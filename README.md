@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I’m Erika 👋
 
-<!--
-**Erika-Arnaiz/Erika-Arnaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI | Data | Digital Transformation
 
-Here are some ideas to get you started:
+I work at the intersection of **AI, data, and business transformation**, building solutions that drive real impact across global organizations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌎 Experience collaborating across **US, Brazil, and Mexico**
+🚀 Focused on **GenAI, multi-agent systems, and scalable data solutions**
+💡 Passionate about turning complex ideas into **practical, high-value outcomes**
+
+---
+
+## 🔧 What I Do
+
+* Design and deliver **AI & GenAI use cases**
+* Build **end-to-end data pipelines** for analytics and AI
+* Enable **business transformation through technology**
+* Lead and collaborate across **cross-functional, global teams**
+
+---
+
+## 🧠 Areas of Focus
+
+* Multi-Agent AI Systems
+* End-to-End Data Pipelines
+* AI for Enterprise Applications
+* Performance & Transformation (PaT Lab)
+ ## 🏅 Certifications
+  
+*Snowflake SnowPro Certified**  
+
+[![Snowflake Certification](https://developerbadges.snowflake.com/3c05a894-a57b-49bc-afd4-ef842126fc43/image)](https://developerbadges.snowflake.com/3c05a894-a57b-49bc-afd4-ef842126fc43)
+
+---
+
+## 📌 Selected Work
+
+*(Add your best repositories here)*
+
+* 🔹 AI Use Cases – Real-world applications of GenAI
+* 🔹 Data Pipeline Projects – Scalable data workflows
+* 🔹 Experimentation – Prototypes and innovation work
+
+---
+
+## 🌱 Currently Exploring
+
+* Advanced **multi-agent orchestration**
+* Scalable **AI architectures for enterprise**
+* Bridging **data platforms and AI systems**
+
+---
+
+## 🤝 Let’s Connect
