@@ -66,5 +66,3 @@ I’m motivated by building solutions that **create impact at scale**, collabora
 * Bridging **data platforms and AI systems**
 
 ---
-
-## 🤝 Let’s Connect
