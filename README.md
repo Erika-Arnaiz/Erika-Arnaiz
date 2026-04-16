@@ -37,13 +37,29 @@ I work at the intersection of **AI, data, and business transformation**, buildin
 
 *(Add your best repositories here)*
 
-* 🔹 AI Use Cases – Real-world applications of GenAI
+* 🔹 AI Use Cases – Real-world applications of GenAIhttps://www.zillow.com/homedetails/5745-Headquarters-Dr-Plano-TX-75024/83128624_zpid/
 * 🔹 Data Pipeline Projects – Scalable data workflows
 * 🔹 Experimentation – Prototypes and innovation work
 
 ---
 
 ## 🌱 Currently Exploring
+
+* Advanced **multi-agent orchestration**
+* Scalable **AI architectures for enterprise**
+* Bridging **data platforms and AI systems**
+
+---
+
+## 🤝 Let’s Connect
+
+* 💼 LinkedIn: https://www.linkedin.com/in/erikarich/
+
+---
+
+## ⚡ What Drives Me
+
+I’m motivated by building solutions that **create impact at scale**, collaborating with diverse teams, and continuously exploring how **AI can transform the way we work and make decisions**.
 
 * Advanced **multi-agent orchestration**
 * Scalable **AI architectures for enterprise**
