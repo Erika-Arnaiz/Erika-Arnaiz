@@ -37,9 +37,9 @@ I work at the intersection of **AI, data, and business transformation**, buildin
 ## 📌 Selected Work
 
 
-* 🔹 AI Use Cases – Real-world applications of GenAIhttps://www.zillow.com/homedetails/5745-Headquarters-Dr-Plano-TX-75024/83128624_zpid/
+* 🔹 AI Use Cases – Real-world applications of GenAI 
 * 🔹 Data Pipeline Projects – Scalable data workflows
-* 🔹 Experimentation – Prototypes and innovation work (Copilot, Glean, Snoflake)
+* 🔹 Experimentation – Prototypes and innovation work (Copilot, Glean, Snoflake, Claude, Base 44, n8n)
 
 ---
 
