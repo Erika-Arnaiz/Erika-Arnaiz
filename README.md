@@ -4,7 +4,7 @@
 
 I work at the intersection of **AI, data, and business transformation**, building solutions that drive real impact across global organizations.
 
-🌎 Experience collaborating across **US, Brazil, and Mexico**
+🌎 Experience managing GenAI programs and use cases, collaborating across **US, Brazil, and Mexico**
 🚀 Focused on **GenAI, multi-agent systems, and scalable data solutions**
 💡 Passionate about turning complex ideas into **practical, high-value outcomes**
 
@@ -35,11 +35,10 @@ I work at the intersection of **AI, data, and business transformation**, buildin
 
 ## 📌 Selected Work
 
-*(Add your best repositories here)*
 
 * 🔹 AI Use Cases – Real-world applications of GenAIhttps://www.zillow.com/homedetails/5745-Headquarters-Dr-Plano-TX-75024/83128624_zpid/
 * 🔹 Data Pipeline Projects – Scalable data workflows
-* 🔹 Experimentation – Prototypes and innovation work
+* 🔹 Experimentation – Prototypes and innovation work (Copilot, Glean, Snoflake)
 
 ---
 
