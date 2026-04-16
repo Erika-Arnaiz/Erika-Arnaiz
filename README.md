@@ -12,7 +12,7 @@ I work at the intersection of **AI, data, and business transformation**, buildin
 
 ## 🔧 What I Do
 
-* Design and deliver **AI & GenAI use cases**
+* Design, manage and deliver **AI & GenAI use cases**
 * Build **end-to-end data pipelines** for analytics and AI
 * Enable **business transformation through technology**
 * Lead and collaborate across **cross-functional, global teams**
