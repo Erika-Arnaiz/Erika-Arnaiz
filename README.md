@@ -2,7 +2,7 @@
 
 ### AI | Data | Digital Transformation
 
-I work at the intersection of **AI, data, and business transformation**, building solutions that drive real impact across global organizations.
+I work at the intersection of **AI, data, and business transformation**, building solutions that drive real impact across global organizations. 
 
 🌎 Experience managing GenAI programs and use cases, collaborating across **US, Brazil, and Mexico**
 🚀 Focused on **GenAI, multi-agent systems, and scalable data solutions**
