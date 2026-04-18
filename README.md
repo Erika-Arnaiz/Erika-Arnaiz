@@ -4,7 +4,7 @@
 
 I work at the intersection of **AI, data, and business transformation**, building solutions that drive real impact across global organizations. 
 
-🌎 Experience managing GenAI programs and use cases, collaborating across **US, Brazil, and Mexico**
+🌎 Experience managing GenAI programs and use cases, collaborating across **US and Lationamerica**
 🚀 Focused on **GenAI, multi-agent systems, and scalable data solutions**
 💡 Passionate about turning complex ideas into **practical, high-value outcomes**
 
